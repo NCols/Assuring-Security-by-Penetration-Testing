@@ -15,8 +15,7 @@ The exact edition I read can be found here: https://www.amazon.com/Kali-Linux-As
 
 [4. Target Enumeration](https://github.com/NCols/Assuring-Secutiry-by-Penetration-Testing/blob/master/4-Target%20Enumeration.md)
 
-[5. Vulnerability Mapping](https://github.com/NCols/Assuring-Secutiry-by-Penetration-Testing/blob/master
-/5-%20Vulnerability%20Mapping.md)
+[5. Vulnerability Mapping](https://github.com/NCols/Assuring-Secutiry-by-Penetration-Testing/blob/master/5-%20Vulnerability%20Mapping.md)
 
 [6. Social Engineering](https://github.com/NCols/Assuring-Secutiry-by-Penetration-Testing/blob/master/6%20-%20Social%20Engineering.md)
 
