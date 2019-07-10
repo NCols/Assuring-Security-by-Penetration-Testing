@@ -1,6 +1,6 @@
 ## {Book Summary} Kali Linux - Assuring Security by Penetration Testing
 
-These are notes that summarize the book "Kali Linux - Assuring Securityy by Penetration Testing", by Lee Allen, Tedi Heriyanto &amp; Shakeel Ali.
+These are notes that summarize the book "Kali Linux - Assuring Security by Penetration Testing", by Lee Allen, Tedi Heriyanto &amp; Shakeel Ali.
 
 The exact edition I read can be found here: https://www.amazon.com/Kali-Linux-Assuring-Security-Penetration/dp/184951948X/ref=sr_1_fkmrnull_3?keywords=Kali+Linux+%E2%80%93+Assuring+Security+by+Penetration+Testing&qid=1555679830&s=gateway&sr=8-3-fkmrnull.
 
